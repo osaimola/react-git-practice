@@ -7,7 +7,7 @@ class About extends React.Component {
         <h1>Git Branching!</h1>
         <p>
           Branches are cool for team work! &nbsp; Especially for preserving the
-          integerity &nbsp; of commit history
+          integerity &nbsp; of commit history somthing to change here for the practice so i am typing for the sacke of it
         </p>
       </>
     );
