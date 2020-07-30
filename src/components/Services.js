@@ -13,6 +13,7 @@ class Services extends React.Component {
         <ul>
           <li>Food tasting</li>
           <li>Swag fit and coolness testing</li>
+          <li>Judge how funny your jokes are</li>
         </ul>
       </div>
     );
